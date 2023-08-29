@@ -6,7 +6,7 @@ public class Stock {
     private String tickerName;
     private int marketCap;
     private String yash;
-
+    private int yash_b;
 
     public Stock(String tickerSymbol,
                  String tickerName,
